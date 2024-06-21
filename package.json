@@ -5,11 +5,11 @@
     "engines": { "node": ">=0.4.0" },
     "author": "Yaron Naveh (yaronn01@gmail.com, http://webservices20.blogspot.com/)",
     "dependencies": {
-        "bufferjs": ">= 1.0.2",
+        "bufferjs": ">=1.0.2",
         "formidable": "=1.1.1",
         "request": ">=2.9.100",
         "xmldom": "=0.1.7",
-        "dateformat": ">=1.0.2-1.2.3",
+        "dateformat": ">=1.0.2 <5.0.0",
         "xml-crypto": ">=0.0.4"
      },
      "devDependencies": {
